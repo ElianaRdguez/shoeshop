@@ -1,0 +1,1 @@
+// Esta página se puede expandir luego con rutas dinámicas

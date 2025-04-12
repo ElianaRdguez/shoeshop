@@ -1,0 +1,1 @@
+// Aquí puedes añadir detalles del producto en otra pantalla
